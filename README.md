@@ -30,3 +30,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run finance_agent.py
 ```
+![Architecture](https://github.com/FaisalxWattoo/wealthwise-ai/blob/main/Visualization/main_page.png)
+![Architecture](https://github.com/FaisalxWattoo/wealthwise-ai/blob/main/Visualization/page2.png)
+![Architecture](https://github.com/FaisalxWattoo/wealthwise-ai/blob/main/Visualization/page3.png)
+![Architecture](https://github.com/FaisalxWattoo/wealthwise-ai/blob/main/Visualization/page4.png)
